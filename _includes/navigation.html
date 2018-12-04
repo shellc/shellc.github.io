@@ -1,5 +1,14 @@
-<nav>
+<div class="container">
+<nav class="navbar navbar-expand-lg navbar-light">
+<a class="navbar-brand" href="#">
+    <img src="/assets/images/logo.jpg" width="30" height="30" alt="">
+</a>
+<div class="collapse navbar-collapse" id="navbarNav">
+<ul class="navbar-nav">
     {% for item in site.data.navigation %}
-    <a href="{{ item.link }}" {% if page.url == item.link %}style="font-weight: bold"{% endif %}>{{item.name}}</a>
+    <li class="nav-item{% if page.url == item.link %} active{% endif %}"><a class="nav-link" href="{{ item.link }}" >{{item.name}}</a></li>
     {% endfor %}
+</ul>
+</div>
 </nav>
+</div>

@@ -1,3 +1,5 @@
+title: "蟹壳"
+
 plugins:
     - jekyll-mentions
     - jemoji
