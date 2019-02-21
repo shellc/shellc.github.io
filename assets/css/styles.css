@@ -1,7 +1,7 @@
 html, body
 {
 font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
-font-size: 14px;
+/*font-size: 14px;*/
 /*color: #343a40;*/
 }
 
@@ -17,3 +17,5 @@ font-size: 14px;
 .post-list-item { display: block; margin-bottom: 2em }
 .post-list-item .title { font-size: 1em }
 .post-list-item .excerpt { color: #6c757d }
+
+.post { font-family: "宋体";}
