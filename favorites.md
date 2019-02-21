@@ -1,9 +1,7 @@
 ---
 layout: default
-title: Favorites
+title: 收藏
 ---
-
-# Favorites
 
 
 * **Websites**

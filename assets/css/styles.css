@@ -2,9 +2,18 @@ html, body
 {
 font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
 font-size: 14px;
-color: #343a40;
+/*color: #343a40;*/
 }
 
+/*a { color: #343a40}*/
 
 .navbar { padding: .5rem 0;}
 .footer { font-size: 12px; }
+
+.task-list { padding-left: 1em; list-style: none; margin-left: 0}
+.task-list-item input { margin-right: 1em; }
+
+.post-list { padding-left: 0; list-style: none }
+.post-list-item { display: block; margin-bottom: 2em }
+.post-list-item .title { font-size: 1em }
+.post-list-item .excerpt { color: #6c757d }
