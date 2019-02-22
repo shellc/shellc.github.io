@@ -15,7 +15,7 @@ font-size: 14px;
 
 .post-list { padding-left: 0; list-style: none }
 .post-list-item { display: block; margin-bottom: 2em }
-.post-list-item .title { font-size: 1em }
+.post-list-item .title { font-size: 16px }
 .post-list-item .excerpt { color: #6c757d }
 
 .post-content { font-family: "Times New Roman", SimSun, NSimSun, "宋体"; font-size:16px ;}
