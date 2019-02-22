@@ -5,7 +5,7 @@ title: 读书
 
 #### 2019
 
-- [x] [如何阅读一本书](https://shellc.cn)
+- [x] [如何阅读一本书](2019/02/21/how-to-read-a-book.html)
 - [x] 忏悔录（列夫·托尔斯泰）
 - [ ] 安娜·卡列尼娜
 - [ ] Educated

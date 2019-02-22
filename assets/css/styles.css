@@ -13,9 +13,13 @@ font-size: 14px;
 .task-list { padding-left: 1em; list-style: none; margin-left: 0}
 .task-list-item input { margin-right: 1em; }
 
-.post-list { padding-left: 0; list-style: none }
-.post-list-item { display: block; margin-bottom: 2em }
-.post-list-item .title { font-size: 16px }
+.motto {padding-left: 5px; font-size:12px; color: #6c757d; border-left: 3px #6c757d solid;}
+
+.post-list { padding-left: 0; list-style: none; font-family: "Times New Roman", SimSun, NSimSun, "宋体";}
+.post-list-item { display: block; margin-bottom: 1.5em }
+.post-list-item .title { font-size: 14px }
 .post-list-item .excerpt { color: #6c757d }
 
-.post-content { font-family: "Times New Roman", SimSun, NSimSun, "宋体"; font-size:16px ;}
+.post { font-family: "Times New Roman", SimSun, NSimSun, "宋体";}
+.post .excerpt {padding-left: 5px; font-size:14px; color: #6c757d; border-left: 3px #6c757d solid;}
+.post .content {font-size:16px;}
