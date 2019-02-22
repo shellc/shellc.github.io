@@ -5,10 +5,10 @@ font-size: 14px;
 /*color: #343a40;*/
 }
 
-h1 {font-size:18px}
-h2 {font-size:16px}
-h3 {font-size:14px}
-h4,h5,h6 {font-size:12px}
+h1 {font-size:18px;font-weight:bold;}
+h2 {font-size:16px;font-weight:bold;}
+h3 {font-size:14px;font-weight:bold;}
+h4,h5,h6 {font-size:12px;font-weight:bold;}
 
 /*a { color: #343a40}*/
 
