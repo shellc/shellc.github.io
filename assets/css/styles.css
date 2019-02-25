@@ -33,3 +33,5 @@ h5,h6 {font-size:12px;}
 .post .date {color: #c0c0c0; font-size: 12px;}
 
 .book-img {width: 200px;}
+
+blockquote { font-style: oblique; padding-left: 5px; border-left: 3px #6c757d solid;}
