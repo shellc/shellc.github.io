@@ -9,6 +9,7 @@ title: 读书
 - [x] 忏悔录（列夫·托尔斯泰）
 - [ ] 论人类不平等的起源和基础（让-雅克·卢梭）
 - [x] [挪威的森林（村上春树）](2019/02/25/Norwegian-Wood.html)
+- [x] 敦煌（井上靖）
 - [ ] 了不起的盖茨比（Francis Scott Fitzgerald）
 - [ ] 安娜·卡列尼娜
 - [ ] Educated
