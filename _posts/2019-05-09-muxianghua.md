@@ -3,6 +3,8 @@ author: shellc
 title: 木香花
 ---
 
+木香花，又名七里香，初夏盛开，花香浓郁，常佐回忆。
+
 <!--more-->
 
 <img src="/assets/images/posts/muxianghua.jpg" alt="木香花" width="300" />
