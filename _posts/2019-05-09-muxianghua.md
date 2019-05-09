@@ -5,7 +5,7 @@ title: 木香花
 
 <!--more-->
 
-![木香花](/assets/images/posts/muxianghua.jpg)
+<img src="/assets/images/posts/muxianghua.jpg" alt="木香花" width="300" />
 
 在夏天的开始<br />
 让味道沈醉了夜晚
