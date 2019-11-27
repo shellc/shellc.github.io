@@ -9,6 +9,14 @@ layout: default
 	<span class="author">{{ page.author }}</span>
 	<span class="date">{{ page.date | date_to_string }}</span>
 </p>
+<p>
+    <span class="tags">tags: 
+      {% for tag in page.tags %}
+        {% capture tag_name %}{{ tag }}{% endcapture %}
+        <a href="/tags/{{ tag_name }}"><code class="tag"><nobr>{{ tag_name }}</nobr></code>&nbsp;</a>
+      {% endfor %}
+    </span>
+</p>
 
 <div class="excerpt">
 {{page.excerpt}}

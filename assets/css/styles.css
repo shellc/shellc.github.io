@@ -31,6 +31,7 @@ h5,h6 {font-size:12px;}
 .post .excerpt {padding-left: 5px; font-size:14px; color: #6c757d; border-left: 3px #6c757d solid;}
 .post .content {/*font-size:16px;*/}
 .post .date {color: #c0c0c0; font-size: 12px;}
+.post .tags {}
 
 .book-img {width: 200px;}
 
