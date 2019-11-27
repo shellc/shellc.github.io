@@ -3,7 +3,7 @@ layout: default
 title: Tags
 ---
 
-<h2>Tags</h2>
+<h1>Tags</h1>
 {% capture temptags %}
   {% for tag in site.tags %}
     {{ tag[1].size | plus: 1000 }}#{{ tag[0] }}#{{ tag[1].size }}
