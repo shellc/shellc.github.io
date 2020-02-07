@@ -26,7 +26,7 @@ h5,h6 {font-size:12px;}
 .post-list-item { display: block; margin-bottom: 1.5em }
 .post-list-item .title { font-size: 14px; display: inline;}
 .post-list-item .excerpt { color: #6c757d }
-.post-list-item .excerpt p {display: inline;}
+.post-list-item .excerpt p {}
 
 .post { /*font-family: "Times New Roman", SimSun, NSimSun, "宋体";*/}
 .post .excerpt {padding-left: 5px; font-size:14px; color: #6c757d; border-left: 3px #6c757d solid;}
