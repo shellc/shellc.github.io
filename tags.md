@@ -4,6 +4,7 @@ title: Tags
 ---
 
 <h1>Tags</h1>
+<div id="tagcloud">
 {% capture temptags %}
   {% for tag in site.tags %}
     {{ tag[1].size | plus: 1000 }}#{{ tag[0] }}#{{ tag[1].size }}
@@ -15,3 +16,4 @@ title: Tags
   {% capture tagname %}{{ tagitems[1] }}{% endcapture %}
   <a href="/tags/{{ tagname }}"><code class="highligher-rouge"><nobr>{{ tagname }}</nobr></code></a>
 {% endfor %}
+</div>

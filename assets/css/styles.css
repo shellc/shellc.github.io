@@ -36,4 +36,8 @@ h5,h6 {font-size:12px;}
 
 .book-img {width: 200px;}
 
+#tagcloud {margin: 20px;}
+#tagcloud p {display: inline; }
+#tagcloud code {margin-right:30px}
+
 blockquote { font-style: oblique; padding-left: 5px; border-left: 3px #6c757d solid;}
