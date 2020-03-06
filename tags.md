@@ -1,9 +1,9 @@
 ---
 layout: default
-title: Tags
+title: 标签
 ---
 
-<h1>Tags</h1>
+<h1>标签</h1>
 <div id="tagcloud">
 {% capture temptags %}
   {% for tag in site.tags %}
