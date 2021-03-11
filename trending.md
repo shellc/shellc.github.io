@@ -7,6 +7,15 @@ title: Trending
 
 <img src="/assets/images/trending/WORLD_INDICES.png" width="100%">
 
+* 000001.SS - SSE Composite Index
+* 399001.SZ - Shenzhen Componet
+* CNY=X - USD/CNY
+* ^GSPC - S&P 500
+* ^HSI - HANG SENG INDEX
+* ^IXIC - NASDAQ Composite
+* ^TNX - CBOE Interest Rate 10 Year T No
+* ^VIX - CBOE Volatility Index
+
 <img src="/assets/images/trending/US_M2_GDP.png" width="100%">
 
 <img src="/assets/images/trending/US_ECONOMICS.png" width="100%">
