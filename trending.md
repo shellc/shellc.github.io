@@ -7,6 +7,7 @@ title: Trending
 
 ## A股雷达 
 
+* [沪深300估值](/investment/CSI300.html)
 * [202104](/investment/a-202104.html)
 
 ## 美国经济
