@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Trending
+title: 投资
 ---
 
 # Trending
