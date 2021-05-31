@@ -1,6 +1,6 @@
 html, body
 {
-/*color: #343a40;*/
+color: #343a40;
 font-family: /*"Source Han Serif SC", "Source Han Serif", */-apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
 text-rendering: optimizeLegibility;
 -webkit-font-smoothing: antialiased;
@@ -8,13 +8,13 @@ font-size: 14px;
 }
 
 h1 {font-size:30px; font-weight: bold;}
-h2 {font-size:24px; color: #5cb85c; font-weight: bold; margin-top: 2em; margin-bottom: 1em; text-align: center}
-h3 {font-size:18px; color: #5cb85c; font-weight: bold;}
-h4 {font-size:16px; color: #5cb85c; font-weight: bold;}
-h5 {font-size:14px; color: #5cb85c; font-weight: bold;}
+h2 {font-size:24px; color: #333; font-weight: bold; margin-top: 2em; margin-bottom: 1em; text-align: center}
+h3 {font-size:18px; color: #333; font-weight: bold;}
+h4 {font-size:16px; color: #333; font-weight: bold;}
+h5 {font-size:14px; color: #333; font-weight: bold;}
 h6 {font-size: 12px}
 
-/*a { color: #e83e8c}*/
+a:hover { color: #e83e8c}
 
 .navbar { padding: .5rem 0;}
 .footer { font-size: 12px; }
