@@ -3,13 +3,17 @@ layout: default
 title: 投资
 ---
 
-#### A股 
+#### 股市 
 
 * [沪深300估值](/investment/CSI300.html)
-* [202104](/investment/a-202104.html)
-* [202105](/investment/a-202105.html)
 
-#### 美国经济
+##### 选股
+
+* [202106](/investment/stocks-2106.html)
+
+#### 宏观经济
+
+##### 美国
 
 * [202104](/investment/us-economics-202104.html)
 * [202105](/investment/us-economics-202105.html)

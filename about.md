@@ -16,10 +16,3 @@ title: 关于
 
 圣人之道，为而不争。 —— 《老子》
 
-
-<div style="text-align: center;">
-
-<img src="/assets/images/qr_shellc_pub_2.jpg" width="80">
-
-</div>
-
