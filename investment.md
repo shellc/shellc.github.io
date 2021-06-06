@@ -9,7 +9,8 @@ title: 投资
 
 ##### 选股
 
-* [202106](/investment/stocks-2106.html)
+* [游戏公司（202106）](/investment/games-2106.html)
+* [全市场（202106）](/investment/stocks-2106.html)
 
 #### 宏观经济
 
