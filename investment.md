@@ -7,7 +7,14 @@ title: 投资
 
 * [沪深300估值](/investment/csi300-2106.html)
 
-##### 选股
+##### 实盘基金
+
+* 量化稳健成长
+    * [2106](/investment/funds/growth-2106.html)
+* 量化大型稳健成长
+    * [2106](/investment/funds/largecorp-2106.html)
+
+##### 研究
 
 * [游戏公司（202106）](/investment/games-2106.html)
 * [全市场（202106）](/investment/stocks-2106.html)
