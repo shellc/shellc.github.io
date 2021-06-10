@@ -13,6 +13,9 @@ title: 投资
     * [2106](/investment/funds/growth-2106.html)
 * 量化大型稳健成长
     * [2106](/investment/funds/largecorp-2106.html)
+* 全球时代精选
+    * [2106](/investment/funds/global-times-2106.html)
+
 
 ##### 研究
 
