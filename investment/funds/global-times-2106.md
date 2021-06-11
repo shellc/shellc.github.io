@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 全球时代精选(2106)
+title: 全球精选(2106)
 ---
 
 
@@ -8,7 +8,7 @@ title: 全球时代精选(2106)
 table {font-size: 10px;}
 </style>
 
-# 全球时代精选
+# 全球精选
 
 Last Update: 2021-06-11
 
