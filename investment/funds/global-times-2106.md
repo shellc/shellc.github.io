@@ -12,6 +12,13 @@ table {font-size: 10px;}
 
 Last Update: 2021-06-11
 
+**雪球实盘:**
+
+建立日期: 2021年6月11日
+
+* [全球精选A](https://xueqiu.com/P/ZH2568147)
+* [全球精选U](https://xueqiu.com/P/ZH2568160)
+* [全球精选H](https://xueqiu.com/P/ZH2568164)
 
 ### 选股
 
