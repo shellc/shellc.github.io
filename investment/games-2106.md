@@ -1,5 +1,5 @@
 ---
-layout: full_width
+layout: default
 title: 游戏公司(2106)
 ---
 
@@ -9,7 +9,7 @@ title: 游戏公司(2106)
 Update: 20210606
 
 <style>
-table {font-size: 12px;}
+table {font-size: 10px;}
 </style>
 
 <style  type="text/css" >
@@ -927,5 +927,5 @@ table {font-size: 12px;}
 <script>
 $('table').addClass('table table-striped table-hover  table-sm ')
 $('thead').addClass('thead-dark')
-$('.main').css('width', '1800px')
+$('.main').css('width', '100%')
 </script>

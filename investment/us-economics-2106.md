@@ -2,7 +2,6 @@
 layout: default
 title: 美国宏观经济(2106)
 ---
-
 # 美国经济
 
 ## 就业和物价
@@ -117,7 +116,7 @@ Real gross domestic product is the inflation adjusted value of the goods and ser
       <td>1.00</td>
       <td>0.75</td>
       <td>0.91</td>
-      <td>0.49</td>
+      <td>0.48</td>
     </tr>
     <tr>
       <th>Inflation, Consumer Prices</th>
@@ -135,7 +134,7 @@ Real gross domestic product is the inflation adjusted value of the goods and ser
     </tr>
     <tr>
       <th>10-Year Breakeven Inflation Rate</th>
-      <td>0.49</td>
+      <td>0.48</td>
       <td>NaN</td>
       <td>0.54</td>
       <td>1.00</td>
@@ -205,11 +204,11 @@ Starting with the update on June 21, 2019, the Treasury bond data used in calcul
     <tr>
       <th>M2</th>
       <td>1.00</td>
-      <td>-0.27</td>
+      <td>-0.26</td>
     </tr>
     <tr>
       <th>10-Year Breakeven Inflation Rate</th>
-      <td>-0.27</td>
+      <td>-0.26</td>
       <td>1.00</td>
     </tr>
   </tbody>
@@ -272,19 +271,19 @@ Starting with the update on June 21, 2019, the Treasury bond data used in calcul
     <tr>
       <th>CSI 300</th>
       <td>1.00</td>
-      <td>0.79</td>
-      <td>-0.56</td>
-      <td>0.78</td>
+      <td>0.74</td>
+      <td>-0.53</td>
       <td>0.73</td>
-      <td>0.82</td>
-      <td>0.56</td>
-      <td>-0.54</td>
+      <td>0.69</td>
+      <td>0.77</td>
+      <td>0.55</td>
+      <td>-0.52</td>
     </tr>
     <tr>
       <th>BND</th>
-      <td>0.79</td>
+      <td>0.74</td>
       <td>1.00</td>
-      <td>-0.52</td>
+      <td>-0.51</td>
       <td>0.97</td>
       <td>0.83</td>
       <td>0.89</td>
@@ -293,68 +292,68 @@ Starting with the update on June 21, 2019, the Treasury bond data used in calcul
     </tr>
     <tr>
       <th>DBC</th>
-      <td>-0.56</td>
-      <td>-0.52</td>
+      <td>-0.53</td>
+      <td>-0.51</td>
       <td>1.00</td>
-      <td>-0.36</td>
-      <td>-0.48</td>
-      <td>-0.33</td>
+      <td>-0.34</td>
+      <td>-0.45</td>
+      <td>-0.31</td>
       <td>-0.02</td>
       <td>0.50</td>
     </tr>
     <tr>
       <th>TIP</th>
-      <td>0.78</td>
+      <td>0.73</td>
       <td>0.97</td>
-      <td>-0.36</td>
+      <td>-0.34</td>
       <td>1.00</td>
-      <td>0.79</td>
+      <td>0.80</td>
       <td>0.92</td>
-      <td>0.36</td>
+      <td>0.37</td>
       <td>-0.73</td>
     </tr>
     <tr>
       <th>VNQ</th>
-      <td>0.73</td>
+      <td>0.69</td>
       <td>0.83</td>
-      <td>-0.48</td>
-      <td>0.79</td>
+      <td>-0.45</td>
+      <td>0.80</td>
       <td>1.00</td>
-      <td>0.88</td>
-      <td>0.51</td>
-      <td>-0.43</td>
+      <td>0.89</td>
+      <td>0.52</td>
+      <td>-0.44</td>
     </tr>
     <tr>
       <th>S&amp;P 500</th>
-      <td>0.82</td>
+      <td>0.77</td>
       <td>0.89</td>
-      <td>-0.33</td>
+      <td>-0.31</td>
       <td>0.92</td>
-      <td>0.88</td>
+      <td>0.89</td>
       <td>1.00</td>
-      <td>0.61</td>
+      <td>0.62</td>
       <td>-0.44</td>
     </tr>
     <tr>
       <th>HANG SENG INDEX</th>
-      <td>0.56</td>
+      <td>0.55</td>
       <td>0.35</td>
       <td>-0.02</td>
-      <td>0.36</td>
-      <td>0.51</td>
-      <td>0.61</td>
+      <td>0.37</td>
+      <td>0.52</td>
+      <td>0.62</td>
       <td>1.00</td>
-      <td>0.19</td>
+      <td>0.18</td>
     </tr>
     <tr>
       <th>Treasury Yield 10 Years</th>
-      <td>-0.54</td>
+      <td>-0.52</td>
       <td>-0.76</td>
       <td>0.50</td>
       <td>-0.73</td>
-      <td>-0.43</td>
       <td>-0.44</td>
-      <td>0.19</td>
+      <td>-0.44</td>
+      <td>0.18</td>
       <td>1.00</td>
     </tr>
   </tbody>
@@ -412,7 +411,7 @@ Starting with the update on June 21, 2019, the Treasury bond data used in calcul
       <td>0.92</td>
       <td>0.90</td>
       <td>0.96</td>
-      <td>0.86</td>
+      <td>0.85</td>
     </tr>
     <tr>
       <th>US Nominal GDP</th>
@@ -466,7 +465,7 @@ Starting with the update on June 21, 2019, the Treasury bond data used in calcul
     </tr>
     <tr>
       <th>US Employees</th>
-      <td>0.86</td>
+      <td>0.85</td>
       <td>0.94</td>
       <td>0.97</td>
       <td>0.91</td>
@@ -589,7 +588,7 @@ Starting with the update on June 21, 2019, the Treasury bond data used in calcul
   <thead>
     <tr style="text-align: right;">
       <th></th>
-      <th>2021-06-30</th>
+      <th>2021-06-01</th>
     </tr>
   </thead>
   <tbody>
@@ -598,24 +597,24 @@ Starting with the update on June 21, 2019, the Treasury bond data used in calcul
       <td>37.27</td>
     </tr>
     <tr>
-      <th>MA 10 Years</th>
+      <th>MA 10Y</th>
       <td>27.51</td>
     </tr>
     <tr>
       <th>CAPE 3Y</th>
-      <td>34.41</td>
+      <td>35.87</td>
     </tr>
     <tr>
-      <th>CAPE 50%</th>
-      <td>20.42</td>
+      <th>50%</th>
+      <td>20.54</td>
     </tr>
     <tr>
-      <th>CAPE 75%</th>
-      <td>26.47</td>
+      <th>75%</th>
+      <td>26.65</td>
     </tr>
     <tr>
-      <th>CAPE 90%</th>
-      <td>32.06</td>
+      <th>90%</th>
+      <td>32.17</td>
     </tr>
   </tbody>
 </table>
@@ -636,8 +635,6 @@ Starting with the update on June 21, 2019, the Treasury bond data used in calcul
 ![png](US%20Economy_files/US%20Economy_53_0.png)
     
 
-
-#### 回测
 
 ### Buffett Indicator
 
@@ -662,29 +659,29 @@ Starting with the update on June 21, 2019, the Treasury bond data used in calcul
   <thead>
     <tr style="text-align: right;">
       <th></th>
-      <th>2021-06-30</th>
+      <th>2021-06-15</th>
     </tr>
   </thead>
   <tbody>
     <tr>
       <th>Buffett_Indicator</th>
-      <td>198.49</td>
+      <td>200.72</td>
     </tr>
     <tr>
-      <th>MA 10 Years</th>
-      <td>122.49</td>
+      <th>MA10Y</th>
+      <td>122.98</td>
     </tr>
     <tr>
       <th>50%</th>
-      <td>83.15</td>
+      <td>83.23</td>
     </tr>
     <tr>
       <th>75%</th>
-      <td>107.66</td>
+      <td>107.79</td>
     </tr>
     <tr>
       <th>90%</th>
-      <td>131.37</td>
+      <td>131.54</td>
     </tr>
   </tbody>
 </table>
@@ -694,7 +691,7 @@ Starting with the update on June 21, 2019, the Treasury bond data used in calcul
 
 
     
-![png](US%20Economy_files/US%20Economy_58_0.png)
+![png](US%20Economy_files/US%20Economy_56_0.png)
     
 
 
@@ -721,21 +718,21 @@ Starting with the update on June 21, 2019, the Treasury bond data used in calcul
   <thead>
     <tr style="text-align: right;">
       <th></th>
-      <th>2021-06-01</th>
+      <th>2021-06-15</th>
     </tr>
   </thead>
   <tbody>
     <tr>
       <th>TIPS</th>
-      <td>-0.84</td>
+      <td>-0.87</td>
     </tr>
     <tr>
       <th>10-Year Treasury Constant Maturity Rate</th>
-      <td>1.62</td>
+      <td>1.51</td>
     </tr>
     <tr>
       <th>10-Year Breakeven Inflation Rate</th>
-      <td>2.46</td>
+      <td>2.38</td>
     </tr>
   </tbody>
 </table>
@@ -745,17 +742,18 @@ Starting with the update on June 21, 2019, the Treasury bond data used in calcul
 
 
     
-![png](US%20Economy_files/US%20Economy_60_1.png)
+![png](US%20Economy_files/US%20Economy_58_1.png)
     
 
 
 
     
-![png](US%20Economy_files/US%20Economy_61_0.png)
+![png](US%20Economy_files/US%20Economy_59_0.png)
     
+
 
 <script>
 $('table').addClass('table table-striped table-hover  table-sm ')
-$('thead').addClass('thead-dark')
-$('.main img').css('width', '100%')
+$('thead').addClass('thead-light')
+$('.main img').css('width', '90%')
 </script>
