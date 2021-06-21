@@ -6,6 +6,7 @@ title: 投资
 #### 股市 
 
 * [沪深300估值](/investment/csi300-2106.html)
+* [A股行业统计](/investment/a-industry-2106.html)
 
 ##### 实盘基金
 
