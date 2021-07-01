@@ -272,52 +272,52 @@ Starting with the update on June 21, 2019, the Treasury bond data used in calcul
       <th>CSI 300</th>
       <td>1.00</td>
       <td>0.74</td>
-      <td>-0.53</td>
+      <td>-0.52</td>
       <td>0.73</td>
-      <td>0.69</td>
-      <td>0.77</td>
-      <td>0.55</td>
+      <td>0.70</td>
+      <td>0.78</td>
+      <td>0.56</td>
       <td>-0.52</td>
     </tr>
     <tr>
       <th>BND</th>
       <td>0.74</td>
       <td>1.00</td>
-      <td>-0.51</td>
+      <td>-0.50</td>
       <td>0.97</td>
       <td>0.83</td>
       <td>0.89</td>
-      <td>0.35</td>
+      <td>0.37</td>
       <td>-0.76</td>
     </tr>
     <tr>
       <th>DBC</th>
-      <td>-0.53</td>
-      <td>-0.51</td>
+      <td>-0.52</td>
+      <td>-0.50</td>
       <td>1.00</td>
-      <td>-0.34</td>
-      <td>-0.45</td>
-      <td>-0.31</td>
-      <td>-0.02</td>
-      <td>0.50</td>
+      <td>-0.32</td>
+      <td>-0.43</td>
+      <td>-0.29</td>
+      <td>-0.01</td>
+      <td>0.49</td>
     </tr>
     <tr>
       <th>TIP</th>
       <td>0.73</td>
       <td>0.97</td>
-      <td>-0.34</td>
+      <td>-0.32</td>
       <td>1.00</td>
-      <td>0.80</td>
+      <td>0.81</td>
       <td>0.92</td>
-      <td>0.37</td>
+      <td>0.38</td>
       <td>-0.73</td>
     </tr>
     <tr>
       <th>VNQ</th>
-      <td>0.69</td>
+      <td>0.70</td>
       <td>0.83</td>
-      <td>-0.45</td>
-      <td>0.80</td>
+      <td>-0.43</td>
+      <td>0.81</td>
       <td>1.00</td>
       <td>0.89</td>
       <td>0.52</td>
@@ -325,9 +325,9 @@ Starting with the update on June 21, 2019, the Treasury bond data used in calcul
     </tr>
     <tr>
       <th>S&amp;P 500</th>
-      <td>0.77</td>
+      <td>0.78</td>
       <td>0.89</td>
-      <td>-0.31</td>
+      <td>-0.29</td>
       <td>0.92</td>
       <td>0.89</td>
       <td>1.00</td>
@@ -336,10 +336,10 @@ Starting with the update on June 21, 2019, the Treasury bond data used in calcul
     </tr>
     <tr>
       <th>HANG SENG INDEX</th>
-      <td>0.55</td>
-      <td>0.35</td>
-      <td>-0.02</td>
+      <td>0.56</td>
       <td>0.37</td>
+      <td>-0.01</td>
+      <td>0.38</td>
       <td>0.52</td>
       <td>0.62</td>
       <td>1.00</td>
@@ -349,7 +349,7 @@ Starting with the update on June 21, 2019, the Treasury bond data used in calcul
       <th>Treasury Yield 10 Years</th>
       <td>-0.52</td>
       <td>-0.76</td>
-      <td>0.50</td>
+      <td>0.49</td>
       <td>-0.73</td>
       <td>-0.44</td>
       <td>-0.44</td>
@@ -410,7 +410,7 @@ Starting with the update on June 21, 2019, the Treasury bond data used in calcul
       <td>0.93</td>
       <td>0.92</td>
       <td>0.90</td>
-      <td>0.96</td>
+      <td>0.97</td>
       <td>0.85</td>
     </tr>
     <tr>
@@ -455,7 +455,7 @@ Starting with the update on June 21, 2019, the Treasury bond data used in calcul
     </tr>
     <tr>
       <th>US M2</th>
-      <td>0.96</td>
+      <td>0.97</td>
       <td>0.97</td>
       <td>0.94</td>
       <td>0.98</td>
@@ -502,13 +502,13 @@ Starting with the update on June 21, 2019, the Treasury bond data used in calcul
   <thead>
     <tr style="text-align: right;">
       <th></th>
-      <th>2021-06-01</th>
+      <th>2021-06-30</th>
     </tr>
   </thead>
   <tbody>
     <tr>
       <th>S&amp;P 500 PE</th>
-      <td>44.64</td>
+      <td>45.65</td>
     </tr>
   </tbody>
 </table>
@@ -545,13 +545,13 @@ Starting with the update on June 21, 2019, the Treasury bond data used in calcul
   <thead>
     <tr style="text-align: right;">
       <th></th>
-      <th>2021-06-01</th>
+      <th>2021-06-30</th>
     </tr>
   </thead>
   <tbody>
     <tr>
       <th>S&amp;P 500 Dividend</th>
-      <td>1.37</td>
+      <td>1.34</td>
     </tr>
   </tbody>
 </table>
@@ -588,21 +588,21 @@ Starting with the update on June 21, 2019, the Treasury bond data used in calcul
   <thead>
     <tr style="text-align: right;">
       <th></th>
-      <th>2021-06-01</th>
+      <th>2021-06-30</th>
     </tr>
   </thead>
   <tbody>
     <tr>
       <th>CAPE</th>
-      <td>37.27</td>
+      <td>38.11</td>
     </tr>
     <tr>
       <th>MA 10Y</th>
-      <td>27.51</td>
+      <td>27.63</td>
     </tr>
     <tr>
       <th>CAPE 3Y</th>
-      <td>35.87</td>
+      <td>36.88</td>
     </tr>
     <tr>
       <th>50%</th>
@@ -610,11 +610,11 @@ Starting with the update on June 21, 2019, the Treasury bond data used in calcul
     </tr>
     <tr>
       <th>75%</th>
-      <td>26.65</td>
+      <td>26.69</td>
     </tr>
     <tr>
       <th>90%</th>
-      <td>32.17</td>
+      <td>32.20</td>
     </tr>
   </tbody>
 </table>
@@ -659,29 +659,29 @@ Starting with the update on June 21, 2019, the Treasury bond data used in calcul
   <thead>
     <tr style="text-align: right;">
       <th></th>
-      <th>2021-06-15</th>
+      <th>2021-06-29</th>
     </tr>
   </thead>
   <tbody>
     <tr>
       <th>Buffett_Indicator</th>
-      <td>200.72</td>
+      <td>202.95</td>
     </tr>
     <tr>
       <th>MA10Y</th>
-      <td>122.98</td>
+      <td>123.43</td>
     </tr>
     <tr>
       <th>50%</th>
-      <td>83.23</td>
+      <td>83.30</td>
     </tr>
     <tr>
       <th>75%</th>
-      <td>107.79</td>
+      <td>107.96</td>
     </tr>
     <tr>
       <th>90%</th>
-      <td>131.54</td>
+      <td>131.69</td>
     </tr>
   </tbody>
 </table>
@@ -718,21 +718,21 @@ Starting with the update on June 21, 2019, the Treasury bond data used in calcul
   <thead>
     <tr style="text-align: right;">
       <th></th>
-      <th>2021-06-15</th>
+      <th>2021-06-29</th>
     </tr>
   </thead>
   <tbody>
     <tr>
       <th>TIPS</th>
-      <td>-0.87</td>
+      <td>-0.83</td>
     </tr>
     <tr>
       <th>10-Year Treasury Constant Maturity Rate</th>
-      <td>1.51</td>
+      <td>1.49</td>
     </tr>
     <tr>
       <th>10-Year Breakeven Inflation Rate</th>
-      <td>2.38</td>
+      <td>2.32</td>
     </tr>
   </tbody>
 </table>
@@ -750,6 +750,8 @@ Starting with the update on June 21, 2019, the Treasury bond data used in calcul
     
 ![png](US%20Economy_files/US%20Economy_59_0.png)
     
+
+   
 
 
 <script>
