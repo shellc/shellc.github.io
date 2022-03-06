@@ -36,7 +36,7 @@ a:hover {
 
 .post-list { padding-left: 0; list-style: none; /*font-family: "Times New Roman", SimSun, NSimSun, "宋体";*/}
 .post-list-item { display: block; margin-bottom: 1.5em }
-.post-list-item .title { font-size: 1rem; display: inline;}
+.post-list-item .title { font-size: 1rem; display: inline; font-weight: normal;}
 .post-list-item .excerpt { color: #6c757d }
 .post-list-item .excerpt p {}
 
