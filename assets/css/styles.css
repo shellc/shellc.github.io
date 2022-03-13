@@ -27,7 +27,12 @@ a:hover {
 	text-decoration: none;
 }
 .container {
-    max-width: 1000px;
+    max-width: 700px;
+}
+@media (max-width: 991.98px) {
+	.container {
+		max-width: 991.98px;
+	}
 }
 .navbar { padding: .5rem 0;}
 .nav-item {font-size: 1rem;}
@@ -67,7 +72,7 @@ color: #2f2f2f;
 }
 .post .excerpt p {margin: 1rem;}
 
-.post .content {font-size:1.1rem; color: #2f2f2f; line-height: 180%;}
+.post .content {font-size:1.15rem; color: #2f2f2f; line-height: 180%;}
 .post .date {color: #c0c0c0; font-size: 1rem;}
 .post .tags {}
 
