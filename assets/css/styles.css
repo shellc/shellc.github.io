@@ -1,10 +1,12 @@
+html {
+	font-size: 0.875rem;
+}
 html, body
 {
 color: #343a40;
 font-family: /*"Source Han Serif SC", "Source Han Serif", */-apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
 text-rendering: optimizeLegibility;
 -webkit-font-smoothing: antialiased;
-font-size: 0.875rem;
 }
 
 h1, h2, h3, h4, h5, h6, {
@@ -24,7 +26,9 @@ a:hover {
 	color: #e83e8c;
 	text-decoration: none;
 }
-
+.container {
+    max-width: 1000px;
+}
 .navbar { padding: .5rem 0;}
 .nav-item {font-size: 1rem;}
 .footer { font-size: 0.8rem; }
@@ -37,7 +41,7 @@ a:hover {
 .post-list { padding-left: 0; list-style: none; /*font-family: "Times New Roman", SimSun, NSimSun, "宋体";*/}
 .post-list-item { display: block; margin-bottom: 1.5em }
 .post-list-item .title { font-size: 1rem; display: inline; font-weight: normal;}
-.post-list-item .excerpt { color: #6c757d }
+.post-list-item .excerpt { color: #6c757d; font-size: 0.85rem}
 .post-list-item .excerpt p {}
 
 .post { 
@@ -63,7 +67,7 @@ color: #2f2f2f;
 }
 .post .excerpt p {margin: 1rem;}
 
-.post .content {font-size:15px; color: #2f2f2f; line-height: 180%;}
+.post .content {font-size:1.1rem; color: #2f2f2f; line-height: 180%;}
 .post .date {color: #c0c0c0; font-size: 1rem;}
 .post .tags {}
 
