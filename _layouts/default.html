@@ -23,7 +23,8 @@
           {{ content }}
       </div>
 
-      <div style="text-align: center;">
+      <div class="mb-3" style="text-align: center;">
+        <div class="mb-2">关注我的微信公众号保持联系</div>
         <img src="/assets/images/qr_shellc_pub_2.jpg" width="80">
       </div>
 
@@ -31,6 +32,14 @@
          <p class="footer">&copy;2002-2022 SHELLC.CN, All rights reserved. ICP证：<a href="https://beian.miit.gov.cn" target="_blank">京ICP备14048959号-1</a></p>
       </div>
 
-      
+<script src="https://cdn.jsdelivr.net/npm/darkmode-js@1.5.7/lib/darkmode-js.min.js"></script>
+<script>
+  function addDarkmodeWidget() {
+    new Darkmode({
+      label: '🌓'
+    }).showWidget();
+  }
+  window.addEventListener('load', addDarkmodeWidget);
+</script>
   </body>
 </html>
