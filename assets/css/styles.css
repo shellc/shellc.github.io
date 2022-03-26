@@ -93,4 +93,6 @@ blockquote { font-style: oblique; padding-left: 1rem; border-left: 1rem #6c757d 
 .darkmode--activated .navbar-light .navbar-brand:focus, .darkmode--activated .navbar-light .navbar-brand:hover {
     color: #fff;
 }
-
+.darkmode--activated .navbar-toggler{
+  background-color: #eee;
+}
