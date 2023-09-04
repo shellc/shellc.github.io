@@ -23,7 +23,8 @@ a {
     text-decoration: none;
 }
 a:hover {
-	color: #e83e8c;
+	/*color: #e83e8c;*/
+	
 	text-decoration: none;
 }
 .container {
@@ -48,6 +49,18 @@ a:hover {
 .post-list-item .title { font-size: 1rem; display: inline; font-weight: normal;}
 .post-list-item .excerpt { color: #6c757d; font-size: 0.85rem}
 .post-list-item .excerpt p {}
+
+.pagination .previous {
+	padding-right: 15px;
+	font-weight: bold;
+}
+
+.pagination .page_number {}
+
+.pagination .next {
+	padding-left: 15px;
+	font-weight: bold;
+}
 
 .post { 
 /*font-family: "Times New Roman", SimSun, NSimSun, "宋体";*/

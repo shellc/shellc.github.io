@@ -45,6 +45,7 @@ GEM
     jekyll-mentions (1.6.0)
       html-pipeline (~> 2.3)
       jekyll (>= 3.7, < 5.0)
+    jekyll-paginate (1.1.0)
     jekyll-sass-converter (3.0.0)
       sass-embedded (~> 1.54)
     jekyll-seo-tag (2.8.0)
@@ -99,6 +100,7 @@ DEPENDENCIES
   jekyll
   jekyll-feed
   jekyll-mentions
+  jekyll-paginate
   jekyll-seo-tag
   jekyll-sitemap
   jemoji

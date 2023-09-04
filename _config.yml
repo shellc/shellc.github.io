@@ -16,3 +16,6 @@ defaults:
       values:
         layout: "default"
 excerpt_separator: <!--more-->
+
+paginate: 15
+paginate_path: "/posts/p-:num"
