@@ -52,14 +52,14 @@ a:hover {
 
 .pagination .previous {
 	padding-right: 15px;
-	font-weight: bold;
+	
 }
 
 .pagination .page_number {}
 
 .pagination .next {
 	padding-left: 15px;
-	font-weight: bold;
+	
 }
 
 .post { 
