@@ -35,6 +35,7 @@ title: 读书
 - [x] 狂飙
 
 #### 2022
+- [x] 投资策略 - 王成
 - [x] 精通以太坊（Mastering Ethereum: Building Smart Contracts and DApps）
 - [x] 区块链-技术驱动金融（BITCOIN AND CRYPTOCURRENCY TECHNOLOGIES）
 - [ ] 理想：以太坊的区块链创世录
@@ -132,7 +133,7 @@ title: 读书
 - [ ] 大国之基：中国乡村振兴诸问题
 - [ ] 女士品茶
 - [ ] 信号与噪声
-- [ ] 主动投资组合管理
+- [x] 主动投资组合管理
 - [x] 活出生命的意义（Frank.V.E.,1905-1997）
 - [x] 定位（Jack Trout）
 - [ ] 几何原本 （欧几里德 著， 兰纪正 朱恩宽 译，译林出版社）
