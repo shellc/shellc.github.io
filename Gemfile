@@ -9,6 +9,7 @@ group :jekyll_plugins do
   gem 'jekyll-mentions'
   gem 'jekyll-paginate'
   gem 'jemoji'
+  gem "jekyll-polyglot"
 end
 
 #bundle exec jekyll serve

@@ -1,38 +1,17 @@
 ---
 layout: default
-title: 日誌
 ---
 
-<p class="motto">
-信言不美，美言不信。善者不辩，辩者不善。知者不博，博者不知。 —— 《老子》
-</p>
+<h2 style="text-align: left;">News</h2>
 
 <ul class="post-list">
-  {% for post in paginator.posts %}
+  {% for item in site.data.news %}
     <li class="post-list-item">
-        <h6 class="title"><a href="{{ post.url }}">{{ post.title }}</a></h6>
+        <h6 class="title"><a href="{{ post.url }}">{{ item.title }}</a></h6>
         <span style="color: #aaa; font-size:11px" class="badge badge-light">{{post.date | date: '%Y-%m-%d'}}</span>
         <div class="excerpt">
-        	{{ post.excerpt }}
+            {{ item.summary }}
         </div>
     </li>
   {% endfor %}
 </ul>
-
-<div class="pagination">
-  {% if paginator.previous_page and paginator.page != 2 %}
-    <a href="/posts/p-{{ paginator.previous_page }}" class="previous">Previous</a>
-  {% endif %}
-
-  {% if paginator.previous_page and paginator.page == 2 %}
-    <a href="/index.html" class="previous">Previous</a>
-  {% endif %}
-
-  <span class="page_number ">Page: {{ paginator.page }} of {{ paginator.total_pages }}</span>
-
-  {% if paginator.next_page %}
-    <a href="/posts/p-{{ paginator.next_page }}" class="next">Next</a>
-  {% else %}
-    <span class="next ">Next</span>
-  {% endif %}
-</div>

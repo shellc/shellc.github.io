@@ -1,5 +1,7 @@
-- name: 日誌
+- name: 首页
   link: /
+- name: 文章
+  link: /essays/
 - name: 读书
   link: /books.html
 - name: 标签

@@ -18,3 +18,7 @@ title: 关于
 
 无耻者富，多信者显 。夫名利之大者，几在无耻而信。故观之名，计之利，而信真是也。—— 《庄子·盗跖》
 
+<div class="mb-3" style="text-align: center">
+    <div class="mb-2">关注我的微信公众号保持联系</div>
+    <img src="/assets/images/qr_shellc_pub_2.jpg" width="80" />
+</div>

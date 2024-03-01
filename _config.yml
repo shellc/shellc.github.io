@@ -5,6 +5,7 @@ plugins:
     - jemoji
     - jekyll-feed
     - jekyll-seo-tag
+    - jekyll-polyglot
 defaults:
     - scope:
         path: ""
@@ -18,4 +19,10 @@ defaults:
 excerpt_separator: <!--more-->
 
 paginate: 15
-paginate_path: "/posts/p-:num"
+paginate_path: "/essays/p-:num"
+
+# https://leo3418.github.io/zh/collections/multilingual-jekyll-site/localize-strings.html
+languages: ["en", "zh"]
+default_lang: "en"
+exclude_from_localization: ["assets"]
+parallel_localization: true
