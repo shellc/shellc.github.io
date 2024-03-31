@@ -1,21 +1,21 @@
 title: "蟹壳"
 
 plugins:
-    - jekyll-mentions
-    - jemoji
-    - jekyll-feed
-    - jekyll-seo-tag
-    - jekyll-polyglot
+  - jekyll-mentions
+  - jemoji
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-polyglot
 defaults:
-    - scope:
-        path: ""
-        type: "posts"
-      values:
-        layout: "post"
-    - scope:
-        path: ""
-      values:
-        layout: "default"
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
+  - scope:
+      path: ""
+    values:
+      layout: "default"
 excerpt_separator: <!--more-->
 
 paginate: 15
@@ -26,3 +26,5 @@ languages: ["en", "zh"]
 default_lang: "en"
 exclude_from_localization: ["assets"]
 parallel_localization: true
+sass:
+  sourcemap: never

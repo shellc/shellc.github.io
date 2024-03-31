@@ -1,25 +1,55 @@
-{% if site.tags != "" %}
-  {% include collecttags.html %}
-{% endif %}
+{% if site.tags != "" %} {% include collecttags.html %} {% endif %}
 
 <div class="container">
     <nav class="navbar navbar-expand-lg navbar-light">
         <a class="navbar-brand" href="/">
-            <img src="/assets/images/logo.png"  height="30" class="d-inline-block align-bottom" alt="">蟹壳
+            <img
+                src="/assets/images/logo.png"
+                height="30"
+                class="d-inline-block align-bottom"
+                alt=""
+            />{{ site.data.l10n.title }}
         </a>
-        <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+        <button
+            class="navbar-toggler"
+            type="button"
+            data-bs-toggle="collapse"
+            data-bs-target="#navbarNav"
+            aria-controls="navbarNav"
+            aria-expanded="false"
+            aria-label="Toggle navigation"
+        >
             <span class="navbar-toggler-icon"></span>
         </button>
-        <div class="collapse navbar-collapse" id="navbarNav">
+        <div class="navbar-collapse collapse" id="navbarNav">
             <ul class="navbar-nav">
                 {% for item in site.data.navigation %}
-                <li class="nav-item{% if page.url == item.link %} active{% endif %}"><a class="nav-link" href="{{ item.link }}" >{{item.name}}</a></li>
+                <li
+                    class="nav-item{% if page.url == item.link %} active{% endif %}"
+                >
+                    <a class="nav-link" href="{{ item.link }}">{{item.name}}</a>
+                </li>
                 {% endfor %}
-                <li class="nav-item"><a href="/feed.xml" class="nav-link"><i style="line-height: 15px;color:#fd7e14" class="bi-rss-fill"></i></a></li>
-                <li class="nav-item"><a href="https://github.com/shellc" class="nav-link"><i style="line-height: 15px;" class="bi bi-github"></i></a></li>
-                <li class="nav-item"><a href="https://twitter.com/shellccn" class="nav-link"><i style="line-height: 15px;" class="bi bi-twitter"></i></a></li>
+                <li class="nav-item">
+                    <a href="/feed.xml" class="nav-link"
+                        ><i
+                            style="line-height: 15px; color: #fd7e14"
+                            class="bi-rss-fill"
+                        ></i
+                    ></a>
+                </li>
+                <li class="nav-item">
+                    <a href="https://github.com/shellc" class="nav-link"
+                        ><i style="line-height: 15px" class="bi bi-github"></i
+                    ></a>
+                </li>
+                <li class="nav-item">
+                    <a href="https://twitter.com/shellccn" class="nav-link"
+                        ><i style="line-height: 15px" class="bi bi-twitter"></i
+                    ></a>
+                </li>
             </ul>
-            <div class="ms-auto me-0">{% include lang.html %}</div>
+            <div class="me-0 ms-auto">{% include lang.html %}</div>
         </div>
     </nav>
 </div>

@@ -2,16 +2,16 @@
 layout: default
 ---
 
-<h2 style="text-align: left;">News</h2>
+<h2 style="text-align: left">News</h2>
 
 <ul class="post-list">
-  {% for item in site.data.news %}
+    {% for item in site.data.news %}
     <li class="post-list-item">
-        <h6 class="title"><a href="{{ post.url }}">{{ item.title }}</a></h6>
-        <span style="color: #aaa; font-size:11px" class="badge badge-light">{{post.date | date: '%Y-%m-%d'}}</span>
-        <div class="excerpt">
-            {{ item.summary }}
-        </div>
+        <h6 class="title"><a href="{{ item.url }}">{{ item.title }}</a></h6>
+        <span style="color: #aaa; font-size: 11px" class="badge badge-light"
+            >{{item.date | date: '%Y-%m-%d'}}</span
+        >
+        <div class="excerpt">{{ item.summary }}</div>
     </li>
-  {% endfor %}
+    {% endfor %}
 </ul>
